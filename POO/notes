@@ -1,0 +1,16 @@
+Para POO se requiere 2 Modulos (archivos.py) una para crear las clases y la otra para generar los objetos y el programa
+
+Clase = Molde de un objeto, de aqui se puede generar varios objetos. Esta hecha por: Nombre, Atributos(Propiedades), Metodos
+Propiedades = Atributos de un objeto o caracteristicas de nuestro objeto
+Metodos = Comportamiento del objeto
+Objeto = Nuestras variables creadas con la Clase. La solucion a nuestro problema
+
+Ejemplo:
+    Usuario = Objeto
+    Propiedades = Nombre, Numero, Edad
+    Metodos = Sesion (cerrar sesion, iniciar sesion)
+Pilares:
+    Encapsulamiento
+    Abstración: 
+    Herencia
+    Polimorfismo
